@@ -1,0 +1,10 @@
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\bin\Debug\CSharpHomework3Module06.exe.config
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\bin\Debug\CSharpHomework3Module06.exe
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\bin\Debug\CSharpHomework3Module06.pdb
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\bin\Debug\ConsoleLibrary.dll
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\bin\Debug\ConsoleLibrary.pdb
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\obj\Debug\CSharpHomework3Module06.csprojAssemblyReference.cache
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\obj\Debug\CSharpHomework3Module06.csproj.CoreCompileInputs.cache
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\obj\Debug\CSharpHomework3Module06.csproj.CopyComplete
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\obj\Debug\CSharpHomework3Module06.exe
+D:\Source\CSharpHomework3Module06\CSharpHomework3Module06\obj\Debug\CSharpHomework3Module06.pdb
